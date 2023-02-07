@@ -1,13 +1,13 @@
 # Link extraction A-Z
 
 
-# Requirements ... 
+## Requirements ... 
 1. newPipe / org.schabi.newpipe
 2. URLCheck / com.trianguloy.urlchecker
 3. Visual Studio Code. || VSCode || VSC || (My fucking app.)
 
 
-# Instructions ... 
+## Instructions ... 
 1. Install these two apps on your android.
 2. Configure these apps accordingly.
 3. Open your internet connection.
